@@ -19,6 +19,8 @@ From 1995 to 2020, usually **December** has the most sales; 73885.06 SGD.
 
 ![title](images/Each%20year%20bunker%20sale.png)
 
+[www.businesstimes.com.sg/energy-commodities/singapore-smashes-bunker-sales](https://www.businesstimes.com.sg/energy-commodities/singapore-smashes-bunker-sales-volumes-in-2017-third-straight-record-year)
+
 
 
 ## Which bunker type has the best sales?
