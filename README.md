@@ -5,9 +5,11 @@ This project will analyse a csv file from [Data.gov.sg](https://data.gov.sg/) wh
 * Which year has the best sales?
 * Which bunker type has the best sales?
 * Any sudden increase or drop in sales? 
-### Markdown
+### Which month has the best sales?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From 1995 to 2020, usaully December has the most sales; 73885.06 SGD
+![Image](src)
+
 
 ```markdown
 Syntax highlighted code block
