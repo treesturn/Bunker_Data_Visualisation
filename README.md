@@ -1,9 +1,10 @@
 ## Singapore Bunker Sales Data Analysis
 
-You can use the [editor on GitHub](https://github.com/treesturn/Triston_Chan_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+This project will analyse a csv file from Data.gov.sg which contains Singapore bunker sales data from 1995 to 2020. It will show infomation such as:
+* Which month has the best sales?
+* Which year has the best sales?
+* Which bunker type has the best sales?
+* Any sudden increase or drop in sales? 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
