@@ -1,13 +1,15 @@
-## Singapore Bunker Sales Data Analysis
+# Singapore Bunker Sales Data Analysis
 
 This project will analyse a csv file from [Data.gov.sg](https://data.gov.sg/) which contains Singapore bunker sales data from 1995 to 2020. It will show infomation such as:
 * Which month has the best sales?
 * Which year has the best sales?
 * Which bunker type has the best sales?
 * Any sudden increase or drop in sales? 
-### Which month has the best sales?
+
+## Which month has the best sales?
 
 From 1995 to 2020, usually December has the most sales; 73885.06 SGD
+
 ![title](images/Each%20month%20of%20each%20year%20bunker%20sale.png)
 
 
