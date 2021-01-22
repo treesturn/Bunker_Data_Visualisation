@@ -32,7 +32,7 @@ From 1995 to 2020, usually **December** has the most sales; 73885.06 SGD.
 
 ## From 2017 to 2018, there was a drop of 2% in bunker sales.
 
-![title](Marine%20Fuel%20Oil%20380cst%20sale%202017%262018.png)
+![title](images/Marine%20Fuel%20Oil%20380cst%20sale%202017%262018.png)
 
 
 ```markdown
