@@ -8,7 +8,7 @@ This project will analyse a csv file from [Data.gov.sg](https://data.gov.sg/) wh
 ### Which month has the best sales?
 
 From 1995 to 2020, usually December has the most sales; 73885.06 SGD
-![alt text](https://github.com/treesturn/Triston_Chan_Portfolio/blob/main/images/Each%20month%20of%20each%20year%20bunker%20sale.png)
+![](https://github.com/treesturn/Triston_Chan_Portfolio/blob/main/images/Each%20month%20of%20each%20year%20bunker%20sale.png)
 
 
 ```markdown
