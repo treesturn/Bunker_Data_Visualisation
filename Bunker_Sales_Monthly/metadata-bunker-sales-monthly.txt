@@ -1,0 +1,71 @@
+# Metadata for Bunker Sales, Monthly
+---
+Identifier: '05500e71-0023-4e67-89e4-f9aaa68ff12a'
+Name: 'bunker-sales-monthly'
+Title: 'Bunker Sales, Monthly'
+Description: 'Dataset shows the monthly bunker sales by type in tonnes. (Latest month
+  figures are preliminary estimates.)'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'Shipping'
+Publisher:
+  Name: 'Maritime and Port Authority of Singapore'
+  Admin 1:
+    Name: 'Ho Jian Ming'
+    Department: 'HS'
+    Email: 'ho_jian_ming@mpa.gov.sg'
+Sources:
+  - 'Maritime and Port Authority of Singapore'
+Source Url: 'https://www.mpa.gov.sg/web/portal/home/maritime-singapore/port-statistics'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Monthly'
+Coverage: '1995-01-01 to 2020-12-31'
+Last Updated: '2021-01-14T16:03:14.432831'
+Resources:
+  -
+    Identifier: '44da3191-6c57-4d4a-8268-8e2c418d4b43'
+    Title: 'Bunker Sales Breakdown, Monthly'
+    Url: 'https://storage.data.gov.sg/bunker-sales-monthly/resources/bunker-sales-breakdown-monthly-2021-01-14T07-32-55Z.csv'
+    Format: 'CSV'
+    Coverage: '1995-01-01 to 2020-12-31'
+    Last Updated: '2021-01-14T07:32:55.489638'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'bunker_type'
+        Title: 'Bunker Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'cst refers to centistokes unit'
+      -
+        Name: 'bunker_sales'
+        Title: 'Bunker Sales'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: '''000 Tonnes'
+  -
+    Identifier: '85593a23-b801-4f5c-9512-a53ab94adf3c'
+    Title: 'Bunker Sales Total, Monthly'
+    Url: 'https://storage.data.gov.sg/bunker-sales-monthly/resources/bunker-sales-total-monthly-2021-01-14T07-34-04Z.csv'
+    Format: 'CSV'
+    Coverage: '1995-01-01 to 2020-12-31'
+    Last Updated: '2021-01-14T07:34:04.554941'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'bunker_sales'
+        Title: 'Bunker Sales'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: '''000 Tonnes'
