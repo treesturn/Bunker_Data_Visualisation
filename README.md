@@ -19,8 +19,6 @@ From 1995 to 2020, usually **December** has the most sales; 73885.06 SGD.
 
 ![title](images/Each%20year%20bunker%20sale.png)
 
-[www.businesstimes.com.sg/energy-commodities/singapore-smashes-bunker-sales](https://www.businesstimes.com.sg/energy-commodities/singapore-smashes-bunker-sales-volumes-in-2017-third-straight-record-year)
-
 
 
 ## Which bunker type has the best sales?
@@ -37,5 +35,13 @@ From 1995 to 2020, usually **December** has the most sales; 73885.06 SGD.
 
 Comparing Marine Fuel Oil 380 cst sales between 2017 and 2018
 ![title](images/Marine%20Fuel%20Oil%20380cst%20sale%202017%262018.png)
+
+
+
+### Relevant articles
+
+[www.businesstimes.com.sg/energy-commodities/singapore-smashes-bunker-sales](https://www.businesstimes.com.sg/energy-commodities/singapore-smashes-bunker-sales-volumes-in-2017-third-straight-record-year)
+
+[www.hellenicshippingnews.com/singapore-2018-marine-fuel-sales-fall-two-percent](https://www.hellenicshippingnews.com/singapore-2018-marine-fuel-sales-fall-two-percent-from-a-year-ago/)
 
 
